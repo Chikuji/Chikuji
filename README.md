@@ -1,6 +1,9 @@
+[![HitCount](http://hits.dwyl.com/Chikuji/https://githubcom/Chikuji.svg)](http://hits.dwyl.com/Chikuji/https://githubcom/Chikuji)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-kenji-chikuji)](https://www.linkedin.com/in/felipe-kenji-chikuji)
+
 ## Hi there 👋
 
-# Felipe Kenji Chikuji 👨‍💻 
+# 👨‍💻 Felipe Kenji Chikuji 👨‍💻 
 
 
 **Chikuji/Chikuji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
