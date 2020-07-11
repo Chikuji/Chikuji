@@ -3,20 +3,21 @@
 [![Github Badge](https://img.shields.io/badge/-SiteTeste-000?style=flat-square&logo=Github&logoColor=white&link=https://chikuji.github.io/site-fkc)](https://chikuji.github.io/site-fkc)
 
 
-## Hi there 👋
+## Olá, Mundos 👋
 
 # 👨‍💻 Felipe Kenji Chikuji 👨‍💻 
 
+- 🌎 Brasileiro/São_Paulo/Embu_das_Artes
+- 🎓 Formação para vida: Análise e Desenvolvimento de Sistemas 4°sem
+- 🎓 Formação inicial: Engenharia Civil
+- 💻 Linguagens: Python, Java Script , HTML e CSS 
+- 🔨 Ferramentas: Vs Code, Google Colab, Power BI, GitHub, Insomnia
+- 🏦 Busco **recolocação** em: Análise de dados , Analista de BI ou Desenvolvedor Python Júnior
+- 📫 E-mail pessoal: fkc07@live.com
 
-**Chikuji/Chikuji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Diversos
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🎸 Tocador de guitarra e violão
+- 🎮 Gosta de um FIFA
+- 🔍 É curioso
+- 👨‍💻 Entusiasta da tecnologia
