@@ -3,9 +3,9 @@
 [![Github Badge](https://img.shields.io/badge/-SiteTeste-000?style=flat-square&logo=Github&logoColor=white&link=https://chikuji.github.io/site-fkc)](https://chikuji.github.io/site-fkc)
 
 
-## Olá, Mundos 👋
+### Olá, Mundos 👋
 
-# 👨‍💻 Felipe Kenji Chikuji 👨‍💻 
+## 👨‍💻 Felipe Kenji Chikuji 👨‍💻 
 
 - 🌎 Brasileiro/São_Paulo/Embu_das_Artes
 - 🎓 Formação para vida: Análise e Desenvolvimento de Sistemas 4°sem
@@ -15,9 +15,10 @@
 - 🏦 Busco **recolocação** em: Análise de dados , Analista de BI ou Desenvolvedor Python Júnior
 - 📫 E-mail pessoal: fkc07@live.com
 
-## Diversos
+### Diversos
 
 - 🎸 Tocador de guitarra e violão
-- 🎮 Gosta de um FIFA
-- 🔍 É curioso
+- 🎮 Gosto de um FIFA
+- 🔍 Sou curioso
 - 👨‍💻 Entusiasta da tecnologia
+- 📊 Amante da análise de dados
