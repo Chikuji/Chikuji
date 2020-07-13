@@ -12,7 +12,7 @@
 - 🎓 Formação inicial: Engenharia Civil
 - 💻 Linguagens: Python, Java Script , HTML e CSS 
 - 🔨 Ferramentas: Vs Code, Google Colab, Power BI, GitHub, Insomnia
-- 🏦 Busco **recolocação** em: Análista de Dados Júnior , Analista de BI ou Desenvolvedor Python Júnior
+- 🏦 Busco **recolocação** em: Analista de Dados Júnior , Analista de BI ou Desenvolvedor Python Júnior
 - 📫 E-mail pessoal: fkc07@live.com
 
 ### Diversos
