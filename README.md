@@ -24,4 +24,4 @@
 - 👨‍💻 Entusiasta da tecnologia
 - 📊 Amante da análise de dados
 
-[![(https://www.codewars.com/users/Chikuji/badges/small)]
+[![Codewars](https://www.codewars.com/users/FelipeChikuji/badges/small)]
