@@ -13,7 +13,7 @@
 - 🎓 Formação inicial: Engenharia Civil
 - 💻 Linguagens: Python, Java Script , HTML e CSS 
 - 🔨 Ferramentas: Vs Code, Google Colab, Power BI, GitHub, Insomnia
-- 🏦 Objetivos: Analista de Dados Júnior , Analista de BI ou Desenvolvedor Python Júnior
+- 🏦 Objetivos: Analista de Dados , Analista de BI ou Desenvolvedor Python
 - 📫 E-mail pessoal: fkc07@live.com
 
 ### Diversos
