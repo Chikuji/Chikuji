@@ -9,16 +9,16 @@
 ## 👨‍💻 Felipe Kenji Chikuji 👨‍💻 
 
 - 🌎 Brasileiro/São_Paulo/Embu_das_Artes
-- 🎓 Formação para vida: Análise e Desenvolvimento de Sistemas 4°sem
+- 🎓 Formação para vida: Análise e Desenvolvimento de Sistemas
 - 🎓 Formação inicial: Engenharia Civil
 - 💻 Linguagens: Python, Java Script , HTML e CSS 
 - 🔨 Ferramentas: Vs Code, Google Colab, Power BI, GitHub, Insomnia
-- 🏦 Objetivos: Analista de Dados , Analista de BI ou Desenvolvedor Python
+- 🏦 Estou: Analista de Dados e Desenvolvedor Python e 
 - 📫 E-mail pessoal: fkc07@live.com
 
 ### Diversos
 
-- 🎸 Tocador de guitarra e violão
+- 🎸 Guitarra e violão
 - 🎮 Gosto de um FIFA
 - 🔍 Sou curioso
 - 👨‍💻 Entusiasta da tecnologia
