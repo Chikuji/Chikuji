@@ -25,4 +25,4 @@
 - 📊 Amante da análise de dados
 
 
-
+![Snake animation](https://github.com/Chikuji/Chikuji/blob/output/github-contribution-grid-snake.svg)
