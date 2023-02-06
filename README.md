@@ -12,8 +12,8 @@
 - 🎓 Formação para vida: Análise e Desenvolvimento de Sistemas
 - 🎓 Formação inicial: Engenharia Civil
 - 💻 Linguagens: Python, Java Script , HTML e CSS 
-- 🔨 Ferramentas: Vs Code, Google Colab, Power BI, GitHub, Insomnia
-- 🏦 Estou: Analista de Dados e Desenvolvedor Python e 
+- 🔨 Ferramentas: Vs Code, Google Colab, Power BI, GitHub
+- 🏦 Área: Analise de Dados e Data Science 
 - 📫 E-mail pessoal: fkc07@live.com
 
 ### Diversos
