@@ -9,9 +9,10 @@
 ## 👨‍💻 Felipe Kenji Chikuji 👨‍💻 
 
 - 🌎 Brasileiro/São_Paulo/Embu_das_Artes
-- 🎓 Formação para vida: Análise e Desenvolvimento de Sistemas
-- 🎓 Formação inicial: Engenharia Civil
-- 💻 Linguagens: Python, Java Script , HTML e CSS 
+- 🎓 MBA em Data Science e Analytics
+- 🎓 Análista e Desenvolvedor de Sistemas
+- 🎓 Engenheiro Civil
+- 💻 Linguagens: DAX, M, Python, HTML e CSS. 
 - 🔨 Ferramentas: Vs Code, Google Colab, Power BI, GitHub
 - 🏦 Área: Analise de Dados e Data Science 
 - 📫 E-mail pessoal: fkc07@live.com
@@ -19,10 +20,11 @@
 ### Diversos
 
 - 🎸 Guitarra e violão
+- 🎷 Saxofone (em progresso)
 - 🎮 Gosto de um FIFA
 - 🔍 Sou curioso
 - 👨‍💻 Entusiasta da tecnologia
-- 📊 Amante da análise de dados
+- 📊 Analista por natureza
 
 
 
